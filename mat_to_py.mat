@@ -1,0 +1,6 @@
+for i=(171 ):(337)
+
+xyz(i-170) = B0005.cycle(i).data.Capacity ; 
+
+end
+
